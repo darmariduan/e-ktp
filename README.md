@@ -5,5 +5,5 @@ Aplikasi Cek KTP Online Sederhana
 
 ![Screenshot_2019-05-06  Cek Data NIK Kabupaten Asahan ](https://user-images.githubusercontent.com/38715500/57208861-24ba2280-7000-11e9-92fe-9873c4d520d7.png)
 
-Demo :
+Demo : https://cek-ktp.000webhostapp.com/
 

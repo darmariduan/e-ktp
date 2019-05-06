@@ -281,6 +281,7 @@ function kode_provinsi($i)
             }
             ?>
 </body>
+     </div>
 <br /><br />
 <font color="#999999"><small>Copyright &copy; 2019 Kominfo - Disdukcapil. All rights reserverd.</small></font>
 </div>
